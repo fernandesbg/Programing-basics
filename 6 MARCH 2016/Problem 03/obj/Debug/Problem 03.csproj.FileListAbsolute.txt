@@ -1,0 +1,6 @@
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\6 MARCH 2016\Problem 03\bin\Debug\Problem 03.exe.config
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\6 MARCH 2016\Problem 03\bin\Debug\Problem 03.exe
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\6 MARCH 2016\Problem 03\bin\Debug\Problem 03.pdb
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\6 MARCH 2016\Problem 03\obj\Debug\Problem 03.csprojResolveAssemblyReference.cache
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\6 MARCH 2016\Problem 03\obj\Debug\Problem 03.exe
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\6 MARCH 2016\Problem 03\obj\Debug\Problem 03.pdb

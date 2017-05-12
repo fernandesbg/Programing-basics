@@ -1,0 +1,5 @@
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\17 JULY 2016\17 JULY 2016\bin\Debug\17 JULY 2016.exe.config
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\17 JULY 2016\17 JULY 2016\bin\Debug\17 JULY 2016.exe
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\17 JULY 2016\17 JULY 2016\bin\Debug\17 JULY 2016.pdb
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\17 JULY 2016\17 JULY 2016\obj\Debug\17 JULY 2016.exe
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\17 JULY 2016\17 JULY 2016\obj\Debug\17 JULY 2016.pdb

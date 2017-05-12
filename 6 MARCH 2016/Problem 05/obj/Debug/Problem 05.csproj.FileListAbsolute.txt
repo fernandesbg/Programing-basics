@@ -1,0 +1,5 @@
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\6 MARCH 2016\Problem 05\bin\Debug\Problem 05.exe.config
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\6 MARCH 2016\Problem 05\bin\Debug\Problem 05.exe
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\6 MARCH 2016\Problem 05\bin\Debug\Problem 05.pdb
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\6 MARCH 2016\Problem 05\obj\Debug\Problem 05.exe
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\6 MARCH 2016\Problem 05\obj\Debug\Problem 05.pdb
