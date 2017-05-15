@@ -1,0 +1,6 @@
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\20 November 2016 Morning\20 November 2016 Morning\bin\Debug\20 November 2016 Morning.exe.config
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\20 November 2016 Morning\20 November 2016 Morning\bin\Debug\20 November 2016 Morning.exe
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\20 November 2016 Morning\20 November 2016 Morning\bin\Debug\20 November 2016 Morning.pdb
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\20 November 2016 Morning\20 November 2016 Morning\obj\Debug\20 November 2016 Morning.csprojResolveAssemblyReference.cache
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\20 November 2016 Morning\20 November 2016 Morning\obj\Debug\20 November 2016 Morning.exe
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\20 November 2016 Morning\20 November 2016 Morning\obj\Debug\20 November 2016 Morning.pdb
