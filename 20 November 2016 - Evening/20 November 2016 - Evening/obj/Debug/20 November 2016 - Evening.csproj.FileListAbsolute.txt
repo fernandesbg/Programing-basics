@@ -1,0 +1,6 @@
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\20 November 2016 - Evening\20 November 2016 - Evening\bin\Debug\20 November 2016 - Evening.exe.config
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\20 November 2016 - Evening\20 November 2016 - Evening\bin\Debug\20 November 2016 - Evening.exe
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\20 November 2016 - Evening\20 November 2016 - Evening\bin\Debug\20 November 2016 - Evening.pdb
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\20 November 2016 - Evening\20 November 2016 - Evening\obj\Debug\20 November 2016 - Evening.csprojResolveAssemblyReference.cache
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\20 November 2016 - Evening\20 November 2016 - Evening\obj\Debug\20 November 2016 - Evening.exe
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\20 November 2016 - Evening\20 November 2016 - Evening\obj\Debug\20 November 2016 - Evening.pdb
