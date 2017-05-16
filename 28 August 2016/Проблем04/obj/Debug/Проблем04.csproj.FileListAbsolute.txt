@@ -1,0 +1,6 @@
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\28 August 2016\Проблем04\bin\Debug\Проблем04.exe.config
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\28 August 2016\Проблем04\bin\Debug\Проблем04.exe
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\28 August 2016\Проблем04\bin\Debug\Проблем04.pdb
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\28 August 2016\Проблем04\obj\Debug\Проблем04.csprojResolveAssemblyReference.cache
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\28 August 2016\Проблем04\obj\Debug\Проблем04.exe
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\28 August 2016\Проблем04\obj\Debug\Проблем04.pdb
