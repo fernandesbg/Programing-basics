@@ -1,0 +1,6 @@
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\Podgotovka18Mart\Podgotovka18Mart\bin\Debug\Podgotovka18Mart.exe.config
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\Podgotovka18Mart\Podgotovka18Mart\bin\Debug\Podgotovka18Mart.exe
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\Podgotovka18Mart\Podgotovka18Mart\bin\Debug\Podgotovka18Mart.pdb
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\Podgotovka18Mart\Podgotovka18Mart\obj\Debug\Podgotovka18Mart.csprojResolveAssemblyReference.cache
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\Podgotovka18Mart\Podgotovka18Mart\obj\Debug\Podgotovka18Mart.exe
+C:\Users\Mihail Fernandes\Desktop\C#\упражнения\Podgotovka18Mart\Podgotovka18Mart\obj\Debug\Podgotovka18Mart.pdb
